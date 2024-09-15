@@ -40,7 +40,5 @@ Start the app:
 * Enable PWA
 * Leaderboard
 
-And More ! There's always room for improvement!
+And More ! There's always room for improvement
 
-#### Deployed Version (Feel free to visit) 👇
-https://lakshman-farm.herokuapp.com/
