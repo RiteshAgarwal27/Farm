@@ -26,8 +26,6 @@ Some of the standout features of the project are:
 ### To run this project :
 You can fork the app or you can git-clone the app into your local machine. Once done that, please install all the dependencies by running
 
-`$ git clone https://github.com/lgope/node-farm`
-
 `$ cd node-farm`
 
 Install project dependencies:
